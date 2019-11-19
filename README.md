@@ -1,14 +1,7 @@
 # 黄浩珅厉害厉害厉害厉害厉害厉害厉害
-<html xmlns="http://www.w3.org/1999/xhtml"><head>
-    <title>欢迎来到王一刚老师的课程主页</title>
-    <link href="style.css" rel="stylesheet" type="text/css">
-    <script src="//hm.baidu.com/hm.js?39dcd5bd05965dcfa70b1d2457c6dcae"></script><script type="text/x-mathjax-config">
-        MathJax.Hub.Config({tex2jax: {inlineMath: [['$','$'], ['\\(','\\)']]}});
-</script>
-    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-   </script>
 
 牛牛牛牛牛牛牛牛牛牛牛牛
+<img src="signal.jpg">
 
 飒飒飒
 
