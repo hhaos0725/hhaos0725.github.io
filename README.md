@@ -13,7 +13,7 @@
 <h2>1.opencv原理学习</h2>
 <h2>2.pyqt5学习。</h2>
 <h2>3.网页设计学习</h2>
-<img src="<http://chuantu.xyz/t6/703/1574254246x2890211836.jpg/>" >
+<img src="http://chuantu.xyz/t6/703/1574254246x2890211836.jpg" >
 <h1>三、当前完成状况</h1>
 <h2>基于OPENCV的行人识别主代码</h2>
 <h2>GUI设计</h2>
