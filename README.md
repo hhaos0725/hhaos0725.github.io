@@ -36,11 +36,11 @@
 
 <h1>三、当前完成状况</h1>
 <h3>1.基于OPENCV的行人识别主代码</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/GUI.py">GUI部分代码</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/GUI.py">程序主要代码</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://chuantu.xyz/t6/703/1574257677x2073530527.png" >
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://chuantu.xyz/t6/703/1574257773x992245926.png" >
 <h3>2.GUI设计</h3>
-&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/OPENCV.py">程序主要代码</a>
+&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/OPENCV.py">GUI部分代码</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://chuantu.xyz/t6/703/1574257823x1031866013.png" >
 <h3>3.网页设计</h3>
 &nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/HTML.py/">网页主要代码</a>
