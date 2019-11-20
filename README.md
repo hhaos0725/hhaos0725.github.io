@@ -2,7 +2,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>宿舍异常进入识别监控<title>
+<title>宿舍异常进入识别监控</title>
 </head>
 <body>
 
@@ -15,7 +15,7 @@
 <h2>1.opencv原理学习</h2>
 <h2>2.pyqt5学习。</h2>
 <h2>3.网页设计学习</h2>
-<img src="/vscode/0.jpg" width="100" height="80">
+<img src="/vscode/0.jpg" width="100" height="80"/'>
 <h1>三、实现步骤</h1>
 <h2>图像处理</h2>
 <h2>GUI设计</h2>
