@@ -15,7 +15,7 @@
 <h2>1.opencv原理学习</h2>
 <h2>2.pyqt5学习。</h2>
 <h2>3.网页设计学习</h2>
-<img src="/tu/0.jpg" width="100" height="80">
+<img src="/vscode/0.jpg" width="100" height="80">
 <h1>三、实现步骤</h1>
 <h2>图像处理</h2>
 <h2>GUI设计</h2>
