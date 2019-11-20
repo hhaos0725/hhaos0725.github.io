@@ -18,15 +18,21 @@
 <h1>三.文献查找</h1>
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.jianshu.com/p/154322554d9d">opencv+HOG原理学习1</a>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.cnblogs.com/tornadomeet/archive/2012/08/15/2640754.html">opencv+HOG原理学习2</a>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://blog.csdn.net/mingshao104/article/details/79591965">pyython的标准GUI库tkinter学习1</a>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.bilibili.com/video/av4050443?from=search&seid=11563037252799050418">pyython的标准GUI库tkinter学习2</a>
+
 
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.runoob.com/html/html-links.html">网页设计学习1</a>
 
+
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.jianshu.com/p/154322554d9d">网页设计学习2</a>
+
 
 <h1>三、当前完成状况</h1>
 <h3>1.基于OPENCV的行人识别主代码</h3>
@@ -37,6 +43,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/OPENCV.py">程序主要代码</a>
 &nbsp;&nbsp;&nbsp;&nbsp;<img src="http://chuantu.xyz/t6/703/1574257823x1031866013.png" >
 <h3>3.网页设计</h3>
-&nbsp;&nbsp;<a href="https://hhaos0725.github.io/">程序主要代码</a>
+&nbsp;&nbsp;<a href="https://github.com/hhaos0725/hhaos0725.github.io/blob/master/HTML.py/">网页主要代码</a>
 </body>
 </html>
